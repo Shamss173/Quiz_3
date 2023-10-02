@@ -1,0 +1,21 @@
+/* 4282077 1 */
+
+body {
+
+    position: absolute;
+    width: 1344px;
+    height: 900px;
+    left: -624px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(98, 98, 98, 0.79) 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.3) 96.87%), url(4282077.jpg);
+    opacity: 0.9;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.btn {
+    width: 384px;
+    height: 34px;
+    top: 433px;
+    left: 159px
+}
